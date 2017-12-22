@@ -1,0 +1,11 @@
+
+.conteiner{ margin: 0 auto; width: 960px  }
+
+.bloco {background-color: #FFF; border: 1px solid #CCC; border-color: #CCC #999 #999 #CCC;
+  border: 1px solid #CCC; margin-bottom: 20px; padding: 10px;}
+.audio {margin: 0 auto; width: 960px; }
+.fonte {margin: 0 auto; width: 960px;
+
+}
+
+.foote { font-size: 12px; text-align: center; }
